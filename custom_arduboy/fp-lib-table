@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LCSC_footprint")(type "KiCad")(uri "C:/Users/kishi/Documents/Kicad/easyeda2kicad/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "SpackFun_board")(type "KiCad")(uri "C:/Users/kishi/Documents/Kicad/SparkFun-KiCad-Libraries/footprints/SparkFun-Board.pretty")(options "")(descr ""))
+  (lib (name "Arduino_Lib")(type "KiCad")(uri "C:/Users/kishi/Documents/Kicad/arduino-kicad-library/footprints/arduino-library.pretty")(options "")(descr ""))
+)
